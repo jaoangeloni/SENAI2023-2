@@ -33,10 +33,12 @@ Construção e o teste de carga de uma ponte treliçada, utilizando palitos de p
 
 <h3>3. Requisitos</h3>
 
-<h5>Materiais</h5>
-<li>a</li>
-<li>a</li>
-<li>a</li>
-<li>a</li>
+<p><b>Materiais:</b></p>
 
+<ul>
+    <li>a</li>
+    <li>a</li>
+    <li>a</li>
+    <li>a</li>
+</ul>
 
