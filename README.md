@@ -2,9 +2,9 @@
 Temo de abertura referente ao projeto de construção de uma ponte Warren.
 <hr>
 
-<p>João Pedro Angeloni Alvarenga
-Gabriel Zonta Batista
-Igor Cremasco Viotto
+<p>João Pedro Angeloni Alvarenga<br>
+Gabriel Zonta Batista<br>
+Igor Cremasco Viotto<br>
 Vera Lúcia Pereira</p>
 
 <p><b>1. Justificativa</b></p>
