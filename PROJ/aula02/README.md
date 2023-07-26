@@ -2,9 +2,9 @@
 Temo de abertura referente ao projeto de construção de uma ponte Warren.
 <hr>
 
-<p>João Pedro Angeloni Alvarenga<br>
-Gabriel Zonta Batista<br>
-Igor Cremasco Viotto<br>
+<p>João Pedro Angeloni Alvarenga, 
+Gabriel Zonta Batista, 
+Igor Cremasco Viotto, 
 Vera Lúcia Pereira</p>
 
 <hr>
@@ -32,5 +32,7 @@ Construção e o teste de carga de uma ponte treliçada, utilizando palitos de p
 <hr>
 
 <p><b>3. Requisitos</b></p>
+
+<h3>Materiais</h3>
 
 
