@@ -21,4 +21,12 @@ Visando atender ao interesse do mercado, o curso propõe protótipos para os alu
 No presente projeto, foi proposto a realização de uma Ponte Warren para analisar o comportamento dos alunos em grupo durante a realização de um projeto.
 </p>
 
+<hr>
+
+<p><b>2. Objetivos</b></p>
+
+<p>
+Construção e o teste de carga de uma ponte treliçada, utilizando palitos de picolé e cola. A construção da ponte deverá ser precedida da análise estrutural de algumas opções possíveis de tipos de pontes e capaz de suportar no mínimo 20 quilos. 
+</p>
+
 
