@@ -40,11 +40,23 @@ Para o teste de resistência, livros serão colocados sobre a ponte.
 Decidiu-se por construir uma ponte do tipo Warren Modificada com palitos de picolé utilizando barras constituídas por 3 palitos colados.
 </p>
 
+<p>
+A ponte deverá suportar 20 quilos.
+</p>
+
+<p>
+Seu comprimento final deverá ser de aproximadamente 90cm, altura de 12cm e largura de 13cm. 
+</p>
+
+<p>
+O projeto deverá ser realizado em uma aula.
+</p>
+
 <p><b>Materiais:</b></p>
 
 <ul>
     <li>Aproximadamente 350 palitos de picolé</li>
-    <li>Cola de madeira</li>
+    <li>Tubo de cola</li>
     <li>Prendedor</li>
 </ul>
 
