@@ -7,9 +7,9 @@ Gabriel Zonta Batista<br>
 Igor Cremasco Viotto<br>
 Vera Lúcia Pereira</p>
 
-<p><b>1. Justificativa</b></p>
-
 <hr>
+
+<p><b>1. Justificativa</b></p>
 
 <p>
 O curso de Análise e Desenvolvimento de Sistemas do SENAI tem como objetivo formar profissionais capazes de projetar, desenvolver e testar sistemas completos.
