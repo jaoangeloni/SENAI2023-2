@@ -33,12 +33,15 @@ Construção e o teste de carga de uma ponte treliçada, utilizando palitos de p
 
 <h3>3. Requisitos</h3>
 
+<p>
+Decidiu-se por construir uma ponte do tipo Warren Modificada com palitos de picolé utilizando barras constituídas por 3 palitos colados.
+</p>
+
 <p><b>Materiais:</b></p>
 
 <ul>
-    <li>a</li>
-    <li>a</li>
-    <li>a</li>
-    <li>a</li>
+    <li>Aproximadamente 350 palitos de picolé</li>
+    <li>Cola de madeira</li>
+    <li>Prendedor</li>
 </ul>
 
