@@ -9,7 +9,7 @@ Vera Lúcia Pereira</p>
 
 <hr>
 
-<p><b>1. Justificativa</b></p>
+<h3>1. Justificativa</h3>
 
 <p>
 O curso de Análise e Desenvolvimento de Sistemas do SENAI tem como objetivo formar profissionais capazes de projetar, desenvolver e testar sistemas completos.
@@ -23,7 +23,7 @@ No presente projeto, foi proposto a realização de uma Ponte Warren para analis
 
 <hr>
 
-<p><b>2. Objetivos</b></p>
+<h3>2. Objetivos</h3>
 
 <p>
 Construção e o teste de carga de uma ponte treliçada, utilizando palitos de picolé e cola. A construção da ponte deverá ser precedida da análise estrutural de algumas opções possíveis de tipos de pontes e capaz de suportar no mínimo 20 quilos. 
@@ -31,8 +31,12 @@ Construção e o teste de carga de uma ponte treliçada, utilizando palitos de p
 
 <hr>
 
-<p><b>3. Requisitos</b></p>
+<h3>3. Requisitos</h3>
 
-<h3>Materiais</h3>
+<h5>Materiais</h5>
+<li>a</li>
+<li>a</li>
+<li>a</li>
+<li>a</li>
 
 
