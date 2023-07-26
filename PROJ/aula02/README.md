@@ -29,4 +29,8 @@ No presente projeto, foi proposto a realização de uma Ponte Warren para analis
 Construção e o teste de carga de uma ponte treliçada, utilizando palitos de picolé e cola. A construção da ponte deverá ser precedida da análise estrutural de algumas opções possíveis de tipos de pontes e capaz de suportar no mínimo 20 quilos. 
 </p>
 
+<hr>
+
+<p><b>3. Requisitos</b></p>
+
 
