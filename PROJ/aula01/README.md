@@ -1,5 +1,5 @@
 # Projeto Ponte Warren
-Temo de abertura referente ao projeto de construção de uma ponte Warren.
+Termo de abertura referente ao projeto de construção de uma ponte Warren.
 <hr>
 
 <p>João Pedro Angeloni Alvarenga, 
@@ -18,7 +18,7 @@ O curso de Análise e Desenvolvimento de Sistemas do SENAI tem como objetivo for
 Visando atender ao interesse do mercado, o curso propõe protótipos para os alunos se familiarizarem com a realização de projetos.
 </p>
 <p>
-No presente projeto, foi proposto a realização de uma Ponte Warren para analisar o comportamento dos alunos em grupo durante a realização de um projeto.
+No presente projeto, foi proposto a realização de uma Ponte Warren para analisar o comportamento dos alunos durante a realização de um projeto em grupo.
 </p>
 
 <hr>
