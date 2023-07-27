@@ -57,6 +57,6 @@ O projeto deverá ser realizado em uma aula.
 <ul>
     <li>Aproximadamente 350 palitos de picolé</li>
     <li>Tubo de cola</li>
-    <li>Prendedora</li>
+    <li>Prendedor</li>
 </ul>
 
